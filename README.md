@@ -9,3 +9,4 @@ https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/raw/master/dist/installers/
 ![](https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/blob/master/facebook-promotion-banner.png)<br>
 Download and install from here :<br>
 https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/raw/master/dist/installers/electron-quick-start_1.0.0_amd64.deb
+<meta property="og:image" content="https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/blob/master/facebook-promotion-banner.png" />
