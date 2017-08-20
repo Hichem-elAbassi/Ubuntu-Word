@@ -6,6 +6,6 @@ Download the debian package and you'll have Microsoft Word running in Ubuntu in 
 Click the link below :<br>
 https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/raw/master/dist/installers/electron-quick-start_1.0.0_amd64.deb
 
-![](https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/blob/master/facebook-promotion-banner.png)
+![](https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/blob/master/facebook-promotion-banner.png)<br>
 Download and install from here :<br>
 https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu/raw/master/dist/installers/electron-quick-start_1.0.0_amd64.deb
