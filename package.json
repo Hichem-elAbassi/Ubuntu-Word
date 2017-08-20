@@ -1,21 +1,21 @@
 {
-  "name": "electron-quick-start",
+  "name": "MS Word on Ubuntu",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
   "main": "main.js",
+  "description": "Forget about using Wine for Microsoft Word , just login to you mail account and start using the Microsoft Office Word without hassle and with full speed!",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Hichem-elAbassi/MS-Word-on-Ubuntu",
   "keywords": [
+    "Microsoft",
+    "Word",
+    "Ubuntu",
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "compatibility"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Hichem-elAbassi",
+  "license": "LGPL3",
   "devDependencies": {
     "electron": "~1.6.2"
   }
